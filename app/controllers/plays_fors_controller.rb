@@ -1,0 +1,2 @@
+class PlaysForsController < ApplicationController
+end
